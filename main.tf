@@ -2,7 +2,7 @@
 # This does nothing — useful for testing env0 version installs
 
 terraform {
-  required_version = ">= 1.0.0"
+  required_version = "1.11.6"
 }
 
 output "hello" {
